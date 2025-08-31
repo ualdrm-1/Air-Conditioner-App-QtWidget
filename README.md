@@ -1,6 +1,6 @@
 # Air Conditioner App (based on C++&QtWidget)
 The project developed a graphical user interface, oriented towards work on a touch screen and intended for control and monitoring of the air conditioning system.
-![main-photo](Image/main.png)
+![main-photo](Images/main.png)
 
 ## The application displays the following information:
 - Temperature | degrees (the possibility of Celsius, Fahrenheit, Kelvin scales is provided using finite state machines);
@@ -17,4 +17,4 @@ The project developed a graphical user interface, oriented towards work on a tou
 - Implemented 2 interface design styles: light and dark variants
 
 ## Result:
-![gif](Image/m.gif)
+![gif](Images/m.gif)
